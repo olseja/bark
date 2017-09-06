@@ -5,3 +5,8 @@ function bark (name, weight) {
 		console.log (name + " szczeka hau hau");
 	}
 }
+
+bark ("Burek", 23);
+bark ("Mops", 13);
+bark ("Reksio", 53);
+bark ("Saba", 17);
